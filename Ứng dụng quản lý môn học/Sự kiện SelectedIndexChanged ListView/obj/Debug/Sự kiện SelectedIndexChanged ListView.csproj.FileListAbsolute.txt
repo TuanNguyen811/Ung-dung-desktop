@@ -1,0 +1,12 @@
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\bin\Debug\Sự kiện SelectedIndexChanged ListView.exe.config
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\bin\Debug\Sự kiện SelectedIndexChanged ListView.exe
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\bin\Debug\Sự kiện SelectedIndexChanged ListView.pdb
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự kiện SelectedIndexChanged ListView.csproj.AssemblyReference.cache
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự_kiện_SelectedIndexChanged_ListView.Form1.resources
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự_kiện_SelectedIndexChanged_ListView.Properties.Resources.resources
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự_kiện_SelectedIndexChanged_ListView.Thêm_môn_học.resources
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự kiện SelectedIndexChanged ListView.csproj.GenerateResource.cache
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự kiện SelectedIndexChanged ListView.csproj.CoreCompileInputs.cache
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự kiện SelectedIndexChanged ListView.exe
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự kiện SelectedIndexChanged ListView.pdb
+D:\PHÁT TRIỂN PHẦN MỀM BẰNG C#\5. .NET Framework\CÁC SỰ KIỆN\Sự kiện SelectedIndexChanged ListView\Sự kiện SelectedIndexChanged ListView\obj\Debug\Sự_kiện_SelectedIndexChanged_ListView.DangNhap.resources
